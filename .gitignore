@@ -1,0 +1,21 @@
+# Archivos generados por herramientas
+.vs/
+.vscode/
+*.bak
+*.log
+*.trc
+*.sqlplan
+*.mdf
+*.ldf
+
+# Resultados de pruebas
+04_tests/*_output.txt
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Entornos y secretos
+.env
+*.local
